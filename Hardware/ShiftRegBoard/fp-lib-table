@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name SN74LV595APWRG4)(type KiCad)(uri ${KIPRJMOD}/footprints/SN74LV595APWRG4)(options "")(descr ""))
+  (lib (name logo)(type KiCad)(uri C:/Projects/logo)(options "")(descr ""))
+)

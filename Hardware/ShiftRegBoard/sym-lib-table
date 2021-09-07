@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name SN74LV595APWRG4)(type Legacy)(uri ${KIPRJMOD}/footprints/SN74LV595APWRG4/SN74LV595APWRG4.lib)(options "")(descr ""))
+)
